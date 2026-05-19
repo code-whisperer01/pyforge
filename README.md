@@ -2,7 +2,7 @@
 
 ## Overview
 
-This training system allows you to train your `pyforge-model` using GGUF models from the `models/` directory. The scripts automatically discover available models and manage the training pipeline.
+This training system allows you to train your `GPT2-model` using GGUF models from the `models/` directory. The scripts automatically discover available models and manage the training pipeline.
 
 ## Features
 
